@@ -1,6 +1,6 @@
 # brandon-spring-boot-starter
 
-format log and out put to logstash
+log every request and middle message and output to logstash in log4j2 other than logback
 
 ## for what
 ```

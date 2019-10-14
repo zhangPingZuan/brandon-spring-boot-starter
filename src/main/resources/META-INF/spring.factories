@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.creams.config.brandon.springboot.starter.SpringLoggingAutoConfiguration

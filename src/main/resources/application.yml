@@ -1,0 +1,5 @@
+creams.tool:
+  brand:
+    enabled: true
+    logstash-host: 'localhost'
+    logstash-port: 5000

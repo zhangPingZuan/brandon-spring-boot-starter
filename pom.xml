@@ -8,7 +8,7 @@
         <version>2.1.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.cookc.config</groupId>
+    <groupId>io.creams.config</groupId>
     <artifactId>brandon-spring-boot-starter</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>brandon-spring-boot-starter</name>

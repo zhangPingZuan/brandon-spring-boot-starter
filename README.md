@@ -61,7 +61,3 @@ When you see Fetching config from server at : for the second time, it's actually
 ![image](https://raw.githubusercontent.com/zhangPingZuan/brandon-spring-boot-starter/master/src/main/resources/static/image/image4.png)
 
 
-## 作者
-张平钻，目前就职于杭州匠人网络，致力于楼宇资产管理的 SaaS 化，负责后端业务架构设计。
-[git地址](https://github.com/zhangPingZuan/brandon-spring-boot-starter)
-
